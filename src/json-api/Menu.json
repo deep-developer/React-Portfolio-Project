@@ -1,0 +1,31 @@
+[
+	{
+		"id": 1,
+		"label": "Home",
+		"url": "/"
+	},
+
+	{
+		"id": 2,
+		"label": "Services",
+		"url": "/services"
+	},
+
+	{
+		"id": 3,
+		"label": "Projects",
+		"url": "/projects"
+	},
+
+	{
+		"id": 4,
+		"label": "Testimonials",
+		"url": "/testimonials"
+	},
+
+	{
+		"id": 5,
+		"label": "Experience",
+		"url": "/experience"
+	}
+]

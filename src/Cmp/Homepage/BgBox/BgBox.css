@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.bgbox{
+	width: 100%;
+	height: auto;
+	background-color: #F2F1EF;
+}

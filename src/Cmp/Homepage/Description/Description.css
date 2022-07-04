@@ -1,0 +1,89 @@
+
+/* name details and social icon coding */
+.name-details-box{
+	height: 77vh;
+}
+
+.name-text-one{
+	font-size: 40px;
+	color: #2E3047;
+	text-shadow: 0px 1px 7px slategray;
+}
+
+.name-text-two{
+	font-size: 60px;
+	color: #DF4C73;
+	text-shadow: 0px 1px 7px slategray;
+}
+
+.name-text-three{
+	font-size: 16px;
+	color: lightslategray;
+}
+
+.social-icons i{
+	font-size: 35px;
+	color: #DF4C73;
+	cursor: pointer;
+	text-shadow: 0px 1px 7px slategray;
+}
+/* name details and social icon coding */
+
+
+/* my pic box coding */
+.intro-bg{
+	position: relative;
+}
+
+.intro-row{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.my-pic-box{
+	width: 100%;
+	height: 70vh;
+	position: relative;
+}
+
+.shape-one-box{
+	width: 80%;
+	height: 40vh;
+	z-index: 10;
+	position: absolute;
+	top: 0;
+	left: 20%;
+	filter: drop-shadow(10px 10px 20px #2E3047);
+}
+
+.shape-two-box{
+	width: 80%;
+	height: 40vh;
+	z-index: 11;
+	position: absolute;
+	top: 0;
+	left: 20%;
+	filter: drop-shadow(10px 10px 20px #2E3047);
+}
+
+.profile-image{
+	width: 80%;
+	height: 50vh;
+	z-index: 12;
+	position: absolute;
+	filter: drop-shadow(10px 10px 20px #2E3047);
+}
+
+.emoji-box{
+	width: 15%;
+	height: 15vh;
+	z-index: 13;
+	position: absolute;
+	top: 10%;
+	left: 15%;
+	filter: drop-shadow(10px 10px 10px #707793);
+}
+/* my pic box coding */

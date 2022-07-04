@@ -1,0 +1,17 @@
+.services-text-one{
+	font-size: 50px;
+	color: #2E3047;
+	text-shadow: 0px 1px 7px slategray;
+}
+
+.services-text-two{
+	font-size: 35px;
+	color: #DF4C73;
+	text-shadow: 0px 1px 7px slategray;
+}
+
+.services-box-two{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
